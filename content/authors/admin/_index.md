@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Faith Lee
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Scientist - Statistician
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Université Laval
+  url: "https://www.ulaval.ca/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a data scientist/statistician based in Quebec City, QC. I hold a master's degree in biostatistics and I have experience in analyzing data coming from different domains. I am very interested in the fields of survival analysis, longitudinal data analysis, machine learning and use of statistics in finance. I am also passionate in learning about computer science and the French language.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Survival Analysis
+- Longitudinal Data Analysis
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistics
+    institution: Université Laval
+    year: 2024
+  - course: Master of Mathematics in BioStatistics
+    institution: University of Waterloo
+    year: 2018
+  - course: Bachelor of Science (Honors) in Statistics
+    institution: Memorial University of Newfoundland
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,12 +44,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: google-scholar
+  #icon_pack: ai
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/faithghlee
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have two years experience as a data scientist at a start-up in Ottawa that created a product to help auditors during their audit experience. I ampassionate about the use of statistics in data analysis but also in software development. My prior research experience has mainly focused on survivalanalysis and longitudinal data analysis, however I am interested in other areas such as machine learning as well.
