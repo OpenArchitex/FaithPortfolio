@@ -2,7 +2,7 @@
   Portfolio of Faith Lee
 </h1>
 
-![Gatsby Build](https://github.com/OpenArchitex/FaithPortfolio/workflows/Hugo%20Build/badge.svg)
+![Hugo Build](https://github.com/OpenArchitex/FaithPortfolio/workflows/Hugo%20Build/badge.svg)
 
 This is the codebase for www.faithlee.ca website. 
 
