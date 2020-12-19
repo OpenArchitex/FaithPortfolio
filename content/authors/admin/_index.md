@@ -6,7 +6,7 @@ title: Faith Lee
 superuser: true
 
 # Role/position
-role: Data Scientist - Statistician
+role: PhD student - Statistician 
 
 # Organizations/Affiliations
 organizations:
@@ -14,24 +14,27 @@ organizations:
   url: "https://www.ulaval.ca/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a data scientist/statistician based in Quebec City, QC. I hold a master's degree in biostatistics and I have experience in analyzing data coming from different domains. I am very interested in the fields of survival analysis, longitudinal data analysis, machine learning and use of statistics in finance. I am also passionate in learning about computer science and the French language.
+bio: I am a PhD student/statistician based in Quebec City, QC.
 
 interests:
 - Survival Analysis
 - Longitudinal Data Analysis
-- Machine Learning
+- Missing data
 
 education:
   courses:
   - course: PhD in Statistics
     institution: Université Laval
     year: 2024
-  - course: Master of Mathematics in BioStatistics
+  - course: Master of Mathematics (Biostatistics)
     institution: University of Waterloo
     year: 2018
   - course: Bachelor of Science (Honors) in Statistics
     institution: Memorial University of Newfoundland
     year: 2016
+  - course: Diploma in Biomedical Science
+    institution: Ngee Ann Polytechnic
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,9 +47,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/faith-lee-6257b193/
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=GcF6j7MAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/faithghlee
@@ -69,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-I have two years experience as a data scientist at a start-up in Ottawa that created a product to help auditors during their audit experience. I ampassionate about the use of statistics in data analysis but also in software development. My prior research experience has mainly focused on survivalanalysis and longitudinal data analysis, however I am interested in other areas such as machine learning as well.
+I am currently a PhD student (in Statistics) in Quebec City. Previously I worked in a fintech company in Ottawa as a data scientist. I am originally from Singapore and moved to Canada in 2013. I speak English, Chinese and an intermediate level of French. My research interests are in survival analysis, regression analysis, missing data and their applications in the healthcare and financial domain. 
