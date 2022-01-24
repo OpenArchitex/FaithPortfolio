@@ -53,9 +53,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/faithghlee
-- icon: wordpress-simple
-  icon_pack: fab
-  link: https://randomstatsmusings.wordpress.com
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
